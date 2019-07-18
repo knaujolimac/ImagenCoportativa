@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+#rectangle-2 {height: 89px !important; width:650px !important; background-color: #FFD000 !important;}	
+	#logo-principal {height: 52px !important; width: 102px !important; position: relative !important; top:10px !important; display: block !important; margin: auto !important;}
+	#rectangle-6 {height:33px !important; width:650px !important; background-color: #FFD000 !important; opacity: 0.6 !important;}
+	
+	
+	
+	#comprobante-de-pago{height: 17px;
+	                     width: 193px;	
+						 color: #343741;	
+						 font-family: Roboto;	
+						 font-size: 14px;	
+						 font-weight: bold;	
+						 line-height: 30px;	
+						 text-align:center;}
+	
+    
+	
+    #rectangle-4 {height: 726px; 
+	              width: 650px;	
+				  background-color: #FFFFFF;}
+    #rectangle-copy {height: 311.21px;	width: 324.04px;	background-color: #1A1446;}
+    #iconPagoA{height:77px;	
+	           width: 77px;position: relative}
+    #gracias{height: 38px; 
+	         width: 415px; color: #343741;	
+			 font-family: Roboto;	
+			 font-size: 32px; 
+			 line-height: 38px;	text-align: center;}
+    #hemos-recibido-el-pa{	height: 57.6px;	width: 500px; color: #565656; font-family: Roboto; font-size: 18px;	font-weight: 300; line-height: 28px;text-align: center;}
+    #rectangle {height: 92px; width: 602px;	border-radius: 3px;	background-color: #F5F5F5;line-height: 28px}
+    #valor-de-recaurdo {height: 23px;width: 97px;color: #343741;font-family: Roboto;font-size: 12px;font-weight: bold;	line-height: 22px;}
+    #numero-de-pagare {height: 23px; width: 100px; color: #343741; font-family: Roboto;	font-size: 12px; font-weight: bold;	line-height: 22px;} 
+    #referencia-unica-de {height: 23px;	width: 137px;color: #343741;font-family: Roboto;font-size: 12px;font-weight: bold;	line-height: 22px;}
+    #valor{height: 23px; width: 76px; color: #343741; font-family: Roboto; font-size: 14px;	font-weight: bold;	line-height: 22px;}
+    #pagare{height: 23px;width: 79px;color: #343741;font-family: Roboto;font-size: 14px;	line-height: 22px;}
+    #referencia{height: 23px;width: 48px;color: #343741;font-family: Roboto;font-size: 14px;line-height: 22px;}
+    #oval-2-copy{height: 64.24px;width: 65px;background-color: #F0FBFC;display: block; margin: auto;}
+    #deseas-financiar-tu {	height: 56px;	width: 329px;	color: #1A1446;	font-family: Roboto;	font-size: 24px;	line-height: 28px;	text-align: center;}
+    #background-color-copy {height: 36px;width: 195px;	border: 1px solid #343741;	border-radius: 3px;	background-color: #FFFFFF;}
+    #text-copy{height: 19px;width: 163px;	color: #404040;	font-family: Roboto;font-size: 16px;font-weight: bold;	line-height: 19px;	text-align: center;}
+    #rectangle-5 {	height: 189px;	width: 650px;	background-color: #1A1446;display: block; margin: auto;}
+    #rectangleVigilado{	height: 151.38px;	width: 12px;	background-color: #1A1446;}
+	#elements-color-principal-black {	height: 151.38px;	width: 12px;}
+    #logo{height: 151.38px;	width: 12px;display: block; margin: auto;}
+    #necesitas-ayuda {height: 19px;	width: 142px;	color: #FFFFFF;	font-family: Roboto;	font-size: 16px;	font-weight: bold;	line-height: 19px;	text-align: center;	text-shadow: 0 0 13px 0 rgba(26,20,70,0.73);}	
+	#bogota-3077050 {height: 16px;width: 195px;	color: #FFFFFF;	font-family: Roboto;font-size: 14px;line-height: 30px;text-align: center;text-shadow: 0 0 13px 0 rgba(26,20,70,0.73);}
+	#linea-nacional-01800 {height: 16px;width: 285px;	color: #FFFFFF;	font-family: Roboto;font-size: 14px;line-height: 16px;	text-align: center;	text-shadow: 0 0 13px 0 rgba(26,20,70,0.73);}
+	#liberty-seguros-20
